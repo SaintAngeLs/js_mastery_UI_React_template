@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
-import { close, logo, menu } from '../assets'
-import { navLinks } from '../constants'
+import React, { useState } from 'react';
+import { close, logo, menu } from '../assets';
+import { navLinks } from '../constants';
 
 const Navbar = () => {
 
@@ -45,6 +45,6 @@ const Navbar = () => {
       </div>
     </nav>
   )
-}
+};
 
-export default Navbar
+export default Navbar;

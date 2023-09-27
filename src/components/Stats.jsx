@@ -1,6 +1,6 @@
-import React from 'react'
-import { stats } from '../constants'
-import styles from '../style'
+import React from 'react';
+import { stats } from '../constants';
+import styles from '../style';
 
 const Stats = () => {
   return (
@@ -13,6 +13,6 @@ const Stats = () => {
       ))}
     </section>
   )
-}
+};
 
-export default Stats
+export default Stats;

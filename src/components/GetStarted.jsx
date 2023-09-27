@@ -1,6 +1,6 @@
-import React from 'react'
-import styles from '../style'
-import { arrowUp } from '../assets'
+import React from 'react';
+import styles from '../style';
+import { arrowUp } from '../assets';
 
 const GetStarted = () => {
   return (
@@ -22,6 +22,6 @@ const GetStarted = () => {
       </div>
     </div>
   )
-}
+};
 
-export default GetStarted
+export default GetStarted;
